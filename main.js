@@ -1,4 +1,6 @@
-const wppconnect = require('@wppconnect-team/wppconnect');
+import wppconnect from '@wppconnect-team/wppconnect'
+import * as openai from './Openai.js';
+
 wppconnect
   .create({
     session: 'sessionName',
@@ -12,17 +14,20 @@ wppconnect
   .then((client) => start(client))
   .catch((error) => console.log(error));
 
-  function start(client) {
-  client.onMessage((message) => {
-    if (message.body === 'Hello') {
+  async function start(client) {
+  // client.onMessage((message) => {
+    // if (message.body === 'Hello') {
+      const msg = await openai.getText("teste2")
       client
-        .sendText(message.from, 'Hello, how I may help you?')
+        .sendText('5521991986769@c.us', `${msg}`)
         .then((result) => {
           console.log('Result: ', result); //return object success
         })
         .catch((erro) => {
           console.error('Error when sending: ', erro); //return object error
         });
-    }
-  });
+    // }
+  // });
 }
+// 000000000000@c.us
+// 5521991986769@c.us -> Bia
