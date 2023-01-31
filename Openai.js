@@ -1,34 +1,22 @@
 // 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
-const { Configuration, OpenAIApi } = require("openai");
+import { Configuration, OpenAIApi } from "openai";
+
 const configuration = new Configuration({
-    organization: "org-SD6qjsfRsEie9HkVfCvaWGOc",
-    apiKey: process.env.OPENAI_API_KEY,
+  apiKey: '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',
 });
 const openai = new OpenAIApi(configuration);
-async function res(){
-    const response = await openai.listEngines();
-};
+const historico = 
 
-
-const axios = require('axios');
-
-async function getimage(){
-    await axios.post(
-    'https://api.openai.com/v1/images/generations',
-    // '{\n  "prompt": "A cute baby sea otter",\n  "n": 2,\n  "size": "1024x1024"\n}',
-    {
-        'prompt': 'A cute baby sea otter',
-        'n': 2,
-        'size': '1024x1024'
-    },
-    {
-        headers: {
-            'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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'
-        }
-    }
-    )
-    return res()
+export async function getFriend(text){    
+    const result = await openai.createCompletion({
+        model: "text-davinci-003",
+        prompt:`${historico}You: ${text}\nFriend:`,
+        temperature: 0.5,
+        max_tokens: 60,
+        top_p: 1.0,
+        frequency_penalty: 0.5,
+        presence_penalty: 0.0,
+        stop: ["You:"],
+        });
+        return(result.data.choices[0].text)
 }
-
-console.log(getimage())

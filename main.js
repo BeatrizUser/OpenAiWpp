@@ -15,19 +15,19 @@ wppconnect
   .catch((error) => console.log(error));
 
   async function start(client) {
-  // client.onMessage((message) => {
-    // if (message.body === 'Hello') {
-      const msg = await openai.getText("teste2")
+  client.onMessage(async (message) => {
+    if (message.body) {
+      const msg = await openai.getFriend(message.body)
       client
-        .sendText('5521991986769@c.us', `${msg}`)
+        .sendText(message.from, `${msg}`)
         .then((result) => {
           console.log('Result: ', result); //return object success
         })
         .catch((erro) => {
           console.error('Error when sending: ', erro); //return object error
         });
-    // }
-  // });
+    }
+  });
 }
 // 000000000000@c.us
 // 5521991986769@c.us -> Bia
