@@ -13,21 +13,29 @@ wppconnect
   })
   .then((client) => start(client))
   .catch((error) => console.log(error));
+  
+  const memoria = [];
 
   async function start(client) {
   client.onMessage(async (message) => {
     if (message.body) {
-      const msg = await openai.getFriend(message.body)
+      memoria.push(`You:${message.body}Friend:`)
+      const historico = memoria.join(" ")
+      const msg = await openai.getFriend(historico)
+      memoria.push(`${historico}${msg}`)
+      console.log(memoria.shift())
       client
         .sendText(message.from, `${msg}`)
         .then((result) => {
-          console.log('Result: ', result); //return object success
+          // console.log('Result: ', result); //return object success
         })
         .catch((erro) => {
-          console.error('Error when sending: ', erro); //return object error
+          // console.error('Error when sending: ', erro); //return object error
         });
     }
   });
 }
 // 000000000000@c.us
 // 5521991986769@c.us -> Bia
+
+

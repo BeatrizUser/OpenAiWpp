@@ -4325,3 +4325,162 @@ tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/
 tokens/sessionName/Default/Local Storage/leveldb/000004.log
 tokens/sessionName/Default/Local Storage/leveldb/000005.ldb
 tokens/sessionName/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/b8c965a5-d4ea-4e45-a622-01389748acd4/f94706829172003d_0
+node_modules/@wppconnect/wa-js/dist/chat/events/registerActiveChatEvent.d.ts
+node_modules/@wppconnect/wa-js/dist/chat/functions/getActiveChat.d.ts
+node_modules/@wppconnect/wa-js/dist/community/index.d.ts
+node_modules/@wppconnect/wa-js/dist/community/functions/addSubgroups.d.ts
+node_modules/@wppconnect/wa-js/dist/community/functions/create.d.ts
+node_modules/@wppconnect/wa-js/dist/community/functions/deactivate.d.ts
+node_modules/@wppconnect/wa-js/dist/community/functions/demoteParticipants.d.ts
+node_modules/@wppconnect/wa-js/dist/community/functions/getParticipants.d.ts
+node_modules/@wppconnect/wa-js/dist/community/functions/index.d.ts
+node_modules/@wppconnect/wa-js/dist/community/functions/promoteParticipants.d.ts
+node_modules/@wppconnect/wa-js/dist/community/functions/removeSubgroups.d.ts
+node_modules/@wppconnect/wa-js/dist/group/functions/getGroupSizeLimit.d.ts
+node_modules/@wppconnect/wa-js/dist/whatsapp/functions/getCommunityParticipants.d.ts
+node_modules/@wppconnect/wa-js/dist/whatsapp/functions/getGroupSizeLimit.d.ts
+node_modules/@wppconnect/wa-js/dist/whatsapp/functions/sendCreateCommunity.d.ts
+node_modules/@wppconnect/wa-version/html/2.2305.6-beta.html
+node_modules/@wppconnect/wa-version/html/2.2305.7-beta.html
+node_modules/@wppconnect/wa-version/html/2.2305.7.html
+node_modules/axios/lib/helpers/formDataToStream.js
+node_modules/axios/lib/helpers/readBlob.js
+node_modules/axios/lib/helpers/ZlibHeaderTransformStream.js
+tokens/sessionName/Default/Cache/Cache_Data/01b3683d11879313_0
+tokens/sessionName/Default/Cache/Cache_Data/2ddd263c41481d91_0
+tokens/sessionName/Default/Cache/Cache_Data/2eb300c9cb8914e5_0
+tokens/sessionName/Default/Cache/Cache_Data/2f64084e2d2d30db_0
+tokens/sessionName/Default/Cache/Cache_Data/3a78a4c9d430eddc_0
+tokens/sessionName/Default/Cache/Cache_Data/4cba507a2c855745_0
+tokens/sessionName/Default/Cache/Cache_Data/4e07df436e3c3289_0
+tokens/sessionName/Default/Cache/Cache_Data/5a68db8e74a7064c_0
+tokens/sessionName/Default/Cache/Cache_Data/5b0d837cbd51f3fa_0
+tokens/sessionName/Default/Cache/Cache_Data/5c74751735bcfa88_0
+tokens/sessionName/Default/Cache/Cache_Data/6a7b4cb40a078719_0
+tokens/sessionName/Default/Cache/Cache_Data/6ab180f925f71a09_0
+tokens/sessionName/Default/Cache/Cache_Data/6b8841a92d638324_0
+tokens/sessionName/Default/Cache/Cache_Data/6ba8d97d5a98a335_0
+tokens/sessionName/Default/Cache/Cache_Data/06c323ae58bcbf9c_0
+tokens/sessionName/Default/Cache/Cache_Data/7fb735e917f57428_0
+tokens/sessionName/Default/Cache/Cache_Data/8ed0bf7db013aa6c_0
+tokens/sessionName/Default/Cache/Cache_Data/9bbbc4f90c736d86_0
+tokens/sessionName/Default/Cache/Cache_Data/9c580ca3b998a7e5_0
+tokens/sessionName/Default/Cache/Cache_Data/9ede24e2d962ca99_0
+tokens/sessionName/Default/Cache/Cache_Data/15d96fe5bac8ea29_0
+tokens/sessionName/Default/Cache/Cache_Data/16cf1165074158c4_0
+tokens/sessionName/Default/Cache/Cache_Data/31b12734acfc5a1b_0
+tokens/sessionName/Default/Cache/Cache_Data/35f970e9e655baf3_0
+tokens/sessionName/Default/Cache/Cache_Data/41f4eac5a184bece_0
+tokens/sessionName/Default/Cache/Cache_Data/60e7dc607915a93d_0
+tokens/sessionName/Default/Cache/Cache_Data/72a2b62abe7af183_0
+tokens/sessionName/Default/Cache/Cache_Data/85b32dcfa7e633fc_0
+tokens/sessionName/Default/Cache/Cache_Data/89c4abcf20156db9_0
+tokens/sessionName/Default/Cache/Cache_Data/97fbef386720446a_0
+tokens/sessionName/Default/Cache/Cache_Data/271b9f230ec0ddd3_0
+tokens/sessionName/Default/Cache/Cache_Data/355cd10747349106_0
+tokens/sessionName/Default/Cache/Cache_Data/523d946e04a7c70a_0
+tokens/sessionName/Default/Cache/Cache_Data/574cdd0a82e18144_0
+tokens/sessionName/Default/Cache/Cache_Data/857e5d419c331205_0
+tokens/sessionName/Default/Cache/Cache_Data/868b367e2e81a83f_0
+tokens/sessionName/Default/Cache/Cache_Data/925ef926eb4b31b0_0
+tokens/sessionName/Default/Cache/Cache_Data/980df255c3b00bd2_0
+tokens/sessionName/Default/Cache/Cache_Data/1010cf0692e6140a_0
+tokens/sessionName/Default/Cache/Cache_Data/4620eb93a370f138_0
+tokens/sessionName/Default/Cache/Cache_Data/7637d9a16c04a688_0
+tokens/sessionName/Default/Cache/Cache_Data/8170f20af73b132d_0
+tokens/sessionName/Default/Cache/Cache_Data/9047c98abc36537e_0
+tokens/sessionName/Default/Cache/Cache_Data/10412d67c1c19ff8_0
+tokens/sessionName/Default/Cache/Cache_Data/19695c220422ce39_0
+tokens/sessionName/Default/Cache/Cache_Data/62698c9886798a9f_0
+tokens/sessionName/Default/Cache/Cache_Data/68717a193a5db9c3_0
+tokens/sessionName/Default/Cache/Cache_Data/75251a053270e60c_0
+tokens/sessionName/Default/Cache/Cache_Data/083182c1a65bf0bf_0
+tokens/sessionName/Default/Cache/Cache_Data/919479fbfa071b86_0
+tokens/sessionName/Default/Cache/Cache_Data/8887390dca4b2c1a_0
+tokens/sessionName/Default/Cache/Cache_Data/72716664a6dabd4e_0
+tokens/sessionName/Default/Cache/Cache_Data/793200091c90ec7b_0
+tokens/sessionName/Default/Cache/Cache_Data/a1cc0e39590e327b_0
+tokens/sessionName/Default/Cache/Cache_Data/a20c457b07052c1b_0
+tokens/sessionName/Default/Cache/Cache_Data/a79b838d2ee15685_0
+tokens/sessionName/Default/Cache/Cache_Data/a552e2702ae48f4f_0
+tokens/sessionName/Default/Cache/Cache_Data/ad9dd76a13f78fd5_0
+tokens/sessionName/Default/Cache/Cache_Data/aeb3e11a94494b19_0
+tokens/sessionName/Default/Cache/Cache_Data/aecaf4ee08808dd9_0
+tokens/sessionName/Default/Cache/Cache_Data/b3d2147cbf778c71_0
+tokens/sessionName/Default/Cache/Cache_Data/bfeff195234f8d38_0
+tokens/sessionName/Default/Cache/Cache_Data/c5ab6d0c85bf87e5_0
+tokens/sessionName/Default/Cache/Cache_Data/c13a2c936929b374_0
+tokens/sessionName/Default/Cache/Cache_Data/c47a9e152160e80f_0
+tokens/sessionName/Default/Cache/Cache_Data/c221447f550b3d1c_0
+tokens/sessionName/Default/Cache/Cache_Data/cb3c73246546edf3_0
+tokens/sessionName/Default/Cache/Cache_Data/d0fb7585e37138ad_0
+tokens/sessionName/Default/Cache/Cache_Data/d05f9618bb52d5c6_0
+tokens/sessionName/Default/Cache/Cache_Data/d8c64a26637cf6cc_0
+tokens/sessionName/Default/Cache/Cache_Data/d36c922005a734d0_0
+tokens/sessionName/Default/Cache/Cache_Data/d68d9e9d0f7afdec_0
+tokens/sessionName/Default/Cache/Cache_Data/d398683c8634e1df_0
+tokens/sessionName/Default/Cache/Cache_Data/db59782e103bbfb5_0
+tokens/sessionName/Default/Cache/Cache_Data/e9da167d24d59f22_0
+tokens/sessionName/Default/Cache/Cache_Data/e56a3d7ae84ba640_0
+tokens/sessionName/Default/Cache/Cache_Data/eac1f000fad1e5f2_0
+tokens/sessionName/Default/Cache/Cache_Data/ec1de86b47735fb8_0
+tokens/sessionName/Default/Cache/Cache_Data/ec920c382b87818e_0
+tokens/sessionName/Default/Cache/Cache_Data/edfbaa375471a5c0_0
+tokens/sessionName/Default/Cache/Cache_Data/ef0c76fb41564936_0
+tokens/sessionName/Default/Cache/Cache_Data/ef2e6f9644953c5e_0
+tokens/sessionName/Default/Cache/Cache_Data/f6a4765ea61d55f8_0
+tokens/sessionName/Default/Cache/Cache_Data/f381b9ec616a2155_0
+tokens/sessionName/Default/Cache/Cache_Data/f28098e6a35d6c98_0
+tokens/sessionName/Default/Cache/Cache_Data/f3478611ee5ea62b_0
+tokens/sessionName/Default/Cache/Cache_Data/fc38111a6393827a_0
+tokens/sessionName/Default/Cache/Cache_Data/ff81255b32a2a85e_0
+tokens/sessionName/Default/Code Cache/js/0cc4c3b90c6f82a1_0
+tokens/sessionName/Default/Code Cache/js/0fb666ee9cda7044_0
+tokens/sessionName/Default/Code Cache/js/2b5ecb969414d8a4_0
+tokens/sessionName/Default/Code Cache/js/02f5facd20bbc244_0
+tokens/sessionName/Default/Code Cache/js/4b279a8621a81146_0
+tokens/sessionName/Default/Code Cache/js/4b745dbd7874fa4c_0
+tokens/sessionName/Default/Code Cache/js/7a26d3f9ebb5cb4c_0
+tokens/sessionName/Default/Code Cache/js/7c9f2582fff1fe80_0
+tokens/sessionName/Default/Code Cache/js/8a51ab4d55462f37_0
+tokens/sessionName/Default/Code Cache/js/9a094c2629c77bfc_0
+tokens/sessionName/Default/Code Cache/js/9c3a881e74f47470_0
+tokens/sessionName/Default/Code Cache/js/9da33f2f99a60b03_0
+tokens/sessionName/Default/Code Cache/js/11dc6f8ad8e933dc_0
+tokens/sessionName/Default/Code Cache/js/032ffab273cb0db1_0
+tokens/sessionName/Default/Code Cache/js/52d1e85bf1bcd1d8_0
+tokens/sessionName/Default/Code Cache/js/160b8ace195c1b40_0
+tokens/sessionName/Default/Code Cache/js/746ca577b6342d95_0
+tokens/sessionName/Default/Code Cache/js/1793d6db624a9361_0
+tokens/sessionName/Default/Code Cache/js/32865181fff44d1c_0
+tokens/sessionName/Default/Code Cache/js/a43702dcbf630f86_0
+tokens/sessionName/Default/Code Cache/js/aa1351a612f8ecd6_0
+tokens/sessionName/Default/Code Cache/js/ad1bee6d3ecefe77_0
+tokens/sessionName/Default/Code Cache/js/b46fd4adb8570375_0
+tokens/sessionName/Default/Code Cache/js/c9fd7e1ffab34265_0
+tokens/sessionName/Default/Code Cache/js/c15319d7b00b925b_0
+tokens/sessionName/Default/Code Cache/js/d3c759afeb761e06_0
+tokens/sessionName/Default/Code Cache/js/d74c26dbe862f65d_0
+tokens/sessionName/Default/Code Cache/js/d322b1bd88ab3100_0
+tokens/sessionName/Default/Code Cache/js/e416223ee0eaa6a5_0
+tokens/sessionName/Default/Code Cache/js/f13d91f4822556a5_0
+tokens/sessionName/Default/Code Cache/js/fb8971c7590f51fe_0
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000847.log
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000851.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000852.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000853.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000854.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000855.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000856.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000857.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000858.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000859.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000860.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000861.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000862.ldb
+tokens/sessionName/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000863.ldb
+tokens/sessionName/Default/Local Storage/leveldb/000008.ldb
+tokens/sessionName/Default/Local Storage/leveldb/000011.ldb
+tokens/sessionName/Default/Local Storage/leveldb/000013.log
+tokens/sessionName/Default/Local Storage/leveldb/000014.ldb
+tokens/sessionName/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/b8c965a5-d4ea-4e45-a622-01389748acd4/c362d80062e7d8c7_0
